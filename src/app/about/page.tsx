@@ -11,14 +11,15 @@ export default function About() {
           <div className="flex justify-center lg:justify-end lg:pr-[30px]">
             <img
               src="/broast.jpg"
+               alt="Crispy Broast"
               className="h-[300px] sm:h-[350px] md:h-[400px] lg:h-[500px] w-full sm:w-[80%] md:w-[70%] lg:w-[90%] object-cover shadow-2xl"
             />
           </div>
 
           <div className="bg-zinc-950 shadow-2xl p-6 lg:p-8">
-            <h1 className="font-bold text-3xl sm:text-4xl md:text-5xl lg:text-6xl mt-4 md:mt-6">
+            <h2 className="font-bold text-3xl sm:text-4xl md:text-5xl lg:text-6xl mt-4 md:mt-6">
               What Makes<span className="text-yellow-400"> Our Food Special?</span>
-            </h1>
+            </h2>
             <p className="text-[16px] sm:text-[18px] md:text-[22px] lg:text-[24px] mt-4 md:mt-6 font-semibold">
               Welcome to our restaurant! We pride ourselves on offering a unique dining experience with dishes made from the freshest ingredients. Our chefs work tirelessly to bring authentic flavors to every plate, ensuring that each bite is a delightful experience. <br />
               Whether you&apos;re enjoying a classic pizza or one of our specialty dishes, we guarantee you&apos;ll  leave satisfied and eager to return. Join us for a meal that will tantalize your taste buds and warm your heart.

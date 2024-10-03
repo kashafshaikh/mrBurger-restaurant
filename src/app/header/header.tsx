@@ -1,4 +1,3 @@
-
 "use client";
 import Link from "next/link";
 import { PiHamburgerBold } from "react-icons/pi";
@@ -79,8 +78,6 @@ export default function Header() {
     </header>
   );
 }
-
-
 
 
 
